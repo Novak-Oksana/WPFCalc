@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCalc2", "WpfCalc2\WpfCalc2.csproj", "{CDF20676-3ED3-469E-892C-A9B6403005E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCalc2Tests", "WpfCalc2Tests\WpfCalc2Tests.csproj", "{BB853434-9068-4796-9A9D-FB502D736FD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCalc", "WpfCalc\WpfCalc\WpfCalc.csproj", "{5E1EF620-C36F-4D8A-B7DD-27F15257D16C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF20676-3ED3-469E-892C-A9B6403005E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF20676-3ED3-469E-892C-A9B6403005E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF20676-3ED3-469E-892C-A9B6403005E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF20676-3ED3-469E-892C-A9B6403005E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB853434-9068-4796-9A9D-FB502D736FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB853434-9068-4796-9A9D-FB502D736FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB853434-9068-4796-9A9D-FB502D736FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB853434-9068-4796-9A9D-FB502D736FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1EF620-C36F-4D8A-B7DD-27F15257D16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1EF620-C36F-4D8A-B7DD-27F15257D16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1EF620-C36F-4D8A-B7DD-27F15257D16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1EF620-C36F-4D8A-B7DD-27F15257D16C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1AD6B51-24C5-4C34-BD54-573956704070}
+	EndGlobalSection
+EndGlobal
